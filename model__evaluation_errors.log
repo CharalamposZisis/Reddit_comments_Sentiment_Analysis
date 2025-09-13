@@ -1,0 +1,4 @@
+2025-09-10 19:03:33,330 - model_evaluation - ERROR - Error in main model evaluation workflow: array() got an unexpected keyword argument 'columns'
+2025-09-10 19:14:52,740 - model_evaluation - ERROR - Error in main model evaluation workflow: name 'root_dir' is not defined
+2025-09-10 19:18:58,583 - model_evaluation - ERROR - Error in main model evaluation workflow: evaluate_model() missing 1 required positional argument: 'output_path'
+2025-09-10 19:26:36,012 - model_evaluation - ERROR - Error in main model evaluation workflow: log_metric() missing 1 required positional argument: 'value'

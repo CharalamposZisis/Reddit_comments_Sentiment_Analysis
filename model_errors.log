@@ -1,0 +1,16 @@
+2025-09-09 12:26:24,334 - model_builder - ERROR - Configuration file D:\SQL\params.yaml not found.
+2025-09-09 12:26:24,334 - model_builder - ERROR - Error in main model building workflow: [Errno 2] No such file or directory: 'D:\\SQL\\params.yaml'
+2025-09-09 12:29:03,876 - model_builder - ERROR - Error in main model building workflow: 'model_builder'
+2025-09-09 12:33:45,533 - model_builder - ERROR - Error in main model building workflow: 'model_builder'
+2025-09-09 12:39:52,842 - model_builder - ERROR - Error in main model building workflow: [Errno 2] No such file or directory: 'D:\\SQL\\data/interim/train_preprocessed.csv'
+2025-09-09 12:41:20,244 - model_builder - ERROR - Configuration file D:\SQL\params.yaml not found.
+2025-09-09 12:41:20,244 - model_builder - ERROR - Error in main model building workflow: [Errno 2] No such file or directory: 'D:\\SQL\\params.yaml'
+2025-09-09 12:44:09,781 - model_builder - ERROR - Error in main model building workflow: [Errno 2] No such file or directory: 'D:\\SQL\\data/interim/train_preprocessed.csv'
+2025-09-09 12:46:31,388 - model_builder - ERROR - Error in main model building workflow: [Errno 22] Invalid argument: 'D:\\SQL\\Sentiment-Reddit\\data\\interim\test_preprocessed.csv'
+2025-09-09 12:47:43,043 - model_builder - ERROR - Error in main model building workflow: apply_tfidf() missing 1 required positional argument: 'ngram_range'
+2025-09-09 12:49:56,209 - model_builder - ERROR - Error in main model building workflow: apply_tfidf() missing 1 required positional argument: 'ngram_range'
+2025-09-09 12:58:03,997 - model_builder - ERROR - Error in TF-IDF vectorization: np.nan is an invalid document, expected byte or unicode string.
+2025-09-09 12:58:03,998 - model_builder - ERROR - Error in main model building workflow: np.nan is an invalid document, expected byte or unicode string.
+2025-09-09 13:26:56,708 - model_builder - ERROR - Error in TF-IDF vectorization: [Errno 2] No such file or directory: 'artifacts\\tfidf_vectorizer.pkl'
+2025-09-09 13:26:56,708 - model_builder - ERROR - Error in main model building workflow: [Errno 2] No such file or directory: 'artifacts\\tfidf_vectorizer.pkl'
+2025-09-09 13:42:47,885 - model_builder - ERROR - Error in main model building workflow: train_lgbm() missing 1 required positional argument: 'num_leaves'

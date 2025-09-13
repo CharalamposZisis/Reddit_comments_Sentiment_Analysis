@@ -1,0 +1,2 @@
+2025-09-10 21:43:43,119 - model_registration - ERROR - Error registering model: Unable to find a logged_model with artifact_path lgbm_model under run 86b1f5b211994ba28f01be574eddce68
+2025-09-10 21:43:43,120 - model_registration - ERROR - Error in main execution: Unable to find a logged_model with artifact_path lgbm_model under run 86b1f5b211994ba28f01be574eddce68
